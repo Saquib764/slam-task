@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/saquib/projects/slam-task/localization_ws/install/setup.sh
